@@ -132,7 +132,7 @@ _analyzer: AnalyzerEngine = None
 def _get_analyzer() -> AnalyzerEngine:
     global _analyzer
     if _analyzer is None:
-        config = {"nlp_engine_name": "spacy", "models": [{"lang_code": "en", "model_name": "en_core_web_lg"}]}
+        config = {"nlp_engine_name": "spacy", "models": [{"lang_code": "en", "model_name": "en_core_web_sm"}]}
         provider = NlpEngineProvider(nlp_configuration=config)
         nlp_engine = provider.create_engine()
         _analyzer = AnalyzerEngine(nlp_engine=nlp_engine, supported_languages=["en"])

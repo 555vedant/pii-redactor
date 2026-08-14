@@ -8,7 +8,7 @@ No external APIs are used. All processing runs on your machine.
 
 ```bash
 pip install -r requirements.txt
-python -m spacy download en_core_web_lg
+python -m spacy download en_core_web_sm
 streamlit run app.py
 ```
 
