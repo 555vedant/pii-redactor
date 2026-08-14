@@ -1,31 +1,23 @@
 # python
 __pycache__/
 *.py[cod]
-*.pyo
-*.pyd
 
-# virtual environment
+# environments
 .venv/
 venv/
-env/
-
-# test/cache
-.pytest_cache/
-.coverage
-htmlcov/
-
-# local outputs
-output/
-
-# local profiling
-profile_out.txt
-
-# editor/system
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# local secrets
 .env
 .env.*
+
+# caches
+.pytest_cache/
+.tmp_wheels/
+.cache/
+
+# local/dev tools
+.devcontainer/
+.vscode/
+.idea/
+
+# generated files
+profile_out.txt
+output/
