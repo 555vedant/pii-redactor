@@ -1,0 +1,1640 @@
+[
+  {
+    "type": "ORGANIZATION",
+    "text": "KSH International Limited",
+    "start": 2192,
+    "end": 2217
+  },
+  {
+    "type": "ADDRESS",
+    "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 2579,
+    "end": 2675
+  },
+  {
+    "type": "ADDRESS",
+    "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+    "start": 2695,
+    "end": 2794
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 2812,
+    "end": 2829
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 2911,
+    "end": 2942
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "KSH International Limited",
+    "start": 4632,
+    "end": 4657
+  },
+  {
+    "type": "ADDRESS",
+    "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 4765,
+    "end": 4861
+  },
+  {
+    "type": "ADDRESS",
+    "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+    "start": 4890,
+    "end": 4989
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 14301,
+    "end": 14344
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 29030,
+    "end": 29051
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 29053,
+    "end": 29072
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 29074,
+    "end": 29093
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 29095,
+    "end": 29113
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 29115,
+    "end": 29134
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 34848,
+    "end": 34869
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 34871,
+    "end": 34890
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 34892,
+    "end": 34910
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 34915,
+    "end": 34934
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 35119,
+    "end": 35134
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 35141,
+    "end": 35151
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 35158,
+    "end": 35175
+  },
+  {
+    "type": "PERSON",
+    "text": "Ganesh Prasad",
+    "start": 35208,
+    "end": 35221
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 94109,
+    "end": 94128
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 94254,
+    "end": 94272
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 94392,
+    "end": 94410
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 95626,
+    "end": 95647
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 105500,
+    "end": 105521
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 105523,
+    "end": 105542
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 105544,
+    "end": 105562
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 105567,
+    "end": 105586
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 105771,
+    "end": 105786
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 105793,
+    "end": 105803
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 105810,
+    "end": 105827
+  },
+  {
+    "type": "PERSON",
+    "text": "Ganesh Prasad",
+    "start": 105860,
+    "end": 105873
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 146366,
+    "end": 146387
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 146389,
+    "end": 146408
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 146410,
+    "end": 146429
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 146431,
+    "end": 146449
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 146454,
+    "end": 146473
+  },
+  {
+    "type": "PERSON",
+    "text": "Dinesh Hirachand Munot",
+    "start": 151247,
+    "end": 151269
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 176653,
+    "end": 176674
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "KSH International Limited",
+    "start": 184035,
+    "end": 184060
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "KSH International Limited",
+    "start": 184326,
+    "end": 184351
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 185207,
+    "end": 185224
+  },
+  {
+    "type": "EMAIL",
+    "text": "Sarthak.malvadkar@kshinterantional.com",
+    "start": 185454,
+    "end": 185492
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 187736,
+    "end": 187768
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 187926,
+    "end": 187944
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 187996,
+    "end": 188025
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 188042,
+    "end": 188053
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 188055,
+    "end": 188069
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 188107,
+    "end": 188123
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 188258,
+    "end": 188281
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 188342,
+    "end": 188374
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 188391,
+    "end": 188405
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 188653,
+    "end": 188685
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 188842,
+    "end": 188860
+  },
+  {
+    "type": "EMAIL",
+    "text": "prakash.boricha@nuvama.com",
+    "start": 188862,
+    "end": 188888
+  },
+  {
+    "type": "EMAIL",
+    "text": "sheetal.parab@nuvama.com",
+    "start": 188894,
+    "end": 188918
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 189015,
+    "end": 189031
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 189166,
+    "end": 189189
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 189250,
+    "end": 189282
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 189299,
+    "end": 189313
+  },
+  {
+    "type": "EMAIL",
+    "text": "ipo@trilegal.com",
+    "start": 189546,
+    "end": 189562
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 189823,
+    "end": 189860
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 189888,
+    "end": 189925
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 189972,
+    "end": 189992
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 190196,
+    "end": 190205
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 190214,
+    "end": 190223
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 190454,
+    "end": 190483
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 190485,
+    "end": 190511
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 190512,
+    "end": 190535
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 190537,
+    "end": 190565
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 190571,
+    "end": 190596
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 190956,
+    "end": 190976
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 191095,
+    "end": 191104
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 191113,
+    "end": 191122
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 191353,
+    "end": 191382
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 191384,
+    "end": 191410
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 191411,
+    "end": 191434
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 191436,
+    "end": 191464
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 191470,
+    "end": 191495
+  },
+  {
+    "type": "EMAIL",
+    "text": "Ipocmg@icicibank.com",
+    "start": 191843,
+    "end": 191863
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 191981,
+    "end": 191990
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 191999,
+    "end": 192008
+  },
+  {
+    "type": "EMAIL",
+    "text": "siddharth.jadhav@hdfcbank.com",
+    "start": 192239,
+    "end": 192268
+  },
+  {
+    "type": "EMAIL",
+    "text": "sachin.gawade@hdfcbank.com",
+    "start": 192270,
+    "end": 192296
+  },
+  {
+    "type": "EMAIL",
+    "text": "eric.bacha@hdfcbank.com",
+    "start": 192297,
+    "end": 192320
+  },
+  {
+    "type": "EMAIL",
+    "text": "tushar.gavankar@hdfcbank.com",
+    "start": 192322,
+    "end": 192350
+  },
+  {
+    "type": "EMAIL",
+    "text": "pravin.teli2@hdfcbank.com",
+    "start": 192356,
+    "end": 192381
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 198447,
+    "end": 198478
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Citibank",
+    "start": 198772,
+    "end": 198780
+  },
+  {
+    "type": "EMAIL",
+    "text": "hitesh.ramani@citi.com",
+    "start": 198985,
+    "end": 199007
+  },
+  {
+    "type": "EMAIL",
+    "text": "pro@eximbankindia.in",
+    "start": 199276,
+    "end": 199296
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "IndusInd Bank",
+    "start": 199300,
+    "end": 199313
+  },
+  {
+    "type": "EMAIL",
+    "text": "sharmila.joshi@indusind.com",
+    "start": 199484,
+    "end": 199511
+  },
+  {
+    "type": "PHONE",
+    "text": "8879770456",
+    "start": 199684,
+    "end": 199694
+  },
+  {
+    "type": "EMAIL",
+    "text": "cherag.gyara@icicibank.com",
+    "start": 199758,
+    "end": 199784
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 199786,
+    "end": 199795
+  },
+  {
+    "type": "EMAIL",
+    "text": "manisha.shukla@hdfcbank.com",
+    "start": 199975,
+    "end": 200002
+  },
+  {
+    "type": "EMAIL",
+    "text": "rm6.ifbpune@sbi.co.in",
+    "start": 200217,
+    "end": 200238
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Federal Bank",
+    "start": 200246,
+    "end": 200258
+  },
+  {
+    "type": "EMAIL",
+    "text": "ashishmp@federalbank.co.in",
+    "start": 200472,
+    "end": 200498
+  },
+  {
+    "type": "EMAIL",
+    "text": "anand.soni@bajajfinserv.in",
+    "start": 200679,
+    "end": 200705
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 211425,
+    "end": 211442
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 211485,
+    "end": 211502
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 211552,
+    "end": 211583
+  },
+  {
+    "type": "EMAIL",
+    "text": "cs.connect@kshinternational.com",
+    "start": 211620,
+    "end": 211651
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 216806,
+    "end": 216827
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 216894,
+    "end": 216913
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 216974,
+    "end": 216993
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 217054,
+    "end": 217072
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 248357,
+    "end": 248368
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 248370,
+    "end": 248384
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 248385,
+    "end": 248396
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 248398,
+    "end": 248412
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 248413,
+    "end": 248424
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 248426,
+    "end": 248440
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 248441,
+    "end": 248452
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 248454,
+    "end": 248468
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 248476,
+    "end": 248494
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 248530,
+    "end": 248548
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 248632,
+    "end": 248646
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 248663,
+    "end": 248677
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 248694,
+    "end": 248708
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 248725,
+    "end": 248739
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 248763,
+    "end": 248786
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 248823,
+    "end": 248846
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 249318,
+    "end": 249338
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 249339,
+    "end": 249359
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249395,
+    "end": 249432
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249468,
+    "end": 249505
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249541,
+    "end": 249578
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249614,
+    "end": 249651
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249687,
+    "end": 249724
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 249760,
+    "end": 249797
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 337005,
+    "end": 337037
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 337192,
+    "end": 337210
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 337261,
+    "end": 337290
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 337307,
+    "end": 337318
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 337320,
+    "end": 337334
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 337374,
+    "end": 337406
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh.ipo@nuvama.com",
+    "start": 337561,
+    "end": 337579
+  },
+  {
+    "type": "EMAIL",
+    "text": "customerservice.mb@nuvama.com",
+    "start": 337630,
+    "end": 337659
+  },
+  {
+    "type": "PERSON",
+    "text": "Lokesh Shah",
+    "start": 337676,
+    "end": 337687
+  },
+  {
+    "type": "PERSON",
+    "text": "Soumavo Sarkar",
+    "start": 337689,
+    "end": 337703
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 337743,
+    "end": 337759
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 337889,
+    "end": 337912
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 337972,
+    "end": 338004
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 338021,
+    "end": 338035
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 338089,
+    "end": 338105
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 338235,
+    "end": 338258
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 338318,
+    "end": 338350
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 338367,
+    "end": 338381
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 338435,
+    "end": 338451
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 338581,
+    "end": 338604
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 338664,
+    "end": 338696
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 338713,
+    "end": 338727
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 338781,
+    "end": 338797
+  },
+  {
+    "type": "EMAIL",
+    "text": "ksh@icicisecurities.com",
+    "start": 338927,
+    "end": 338950
+  },
+  {
+    "type": "EMAIL",
+    "text": "customercare@icicisecurities.com",
+    "start": 339010,
+    "end": 339042
+  },
+  {
+    "type": "PERSON",
+    "text": "Kishan Rastogi",
+    "start": 339059,
+    "end": 339073
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 339331,
+    "end": 339368
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 339426,
+    "end": 339463
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 339480,
+    "end": 339500
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 339744,
+    "end": 339781
+  },
+  {
+    "type": "EMAIL",
+    "text": "kshinternational.ipo@in.mpms.mufg.com",
+    "start": 339839,
+    "end": 339876
+  },
+  {
+    "type": "PERSON",
+    "text": "Shanti Gopalkrishnan",
+    "start": 339893,
+    "end": 339913
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "KSH International Limited",
+    "start": 340343,
+    "end": 340368
+  },
+  {
+    "type": "ADDRESS",
+    "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 340471,
+    "end": 340567
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 341644,
+    "end": 341687
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 341821,
+    "end": 341864
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 342204,
+    "end": 342225
+  },
+  {
+    "type": "PERSON",
+    "text": "Sandesh Bhagwat",
+    "start": 342381,
+    "end": 342396
+  },
+  {
+    "type": "PERSON",
+    "text": "Amod Joshi",
+    "start": 342580,
+    "end": 342590
+  },
+  {
+    "type": "PERSON",
+    "text": "Sarthak Malvadkar",
+    "start": 342807,
+    "end": 342824
+  },
+  {
+    "type": "ADDRESS",
+    "text": "201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",
+    "start": 343059,
+    "end": 343158
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "CARE Analytics and Advisory Private Limited",
+    "start": 345461,
+    "end": 345504
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 345675,
+    "end": 345693
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 346094,
+    "end": 346113
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 347267,
+    "end": 347288
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 347290,
+    "end": 347309
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 347601,
+    "end": 347622
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 347624,
+    "end": 347643
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 347645,
+    "end": 347664
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 347666,
+    "end": 347684
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 347689,
+    "end": 347708
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 347926,
+    "end": 347947
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 347949,
+    "end": 347968
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 347970,
+    "end": 347989
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 347994,
+    "end": 348012
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 348185,
+    "end": 348204
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 348289,
+    "end": 348308
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 349924,
+    "end": 349942
+  },
+  {
+    "type": "PERSON",
+    "text": "Sangeeta Ramprasad Rai",
+    "start": 350029,
+    "end": 350051
+  },
+  {
+    "type": "ADDRESS",
+    "text": "11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",
+    "start": 351331,
+    "end": 351427
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 351652,
+    "end": 351671
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 360997,
+    "end": 361029
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 361034,
+    "end": 361050
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 367167,
+    "end": 367176
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 368587,
+    "end": 368603
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 368604,
+    "end": 368620
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 370857,
+    "end": 370889
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 371781,
+    "end": 371802
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 371892,
+    "end": 371911
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 371999,
+    "end": 372018
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 372109,
+    "end": 372127
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 377189,
+    "end": 377198
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "HDFC Bank",
+    "start": 380971,
+    "end": 380980
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Nuvama Wealth Management Limited",
+    "start": 381607,
+    "end": 381639
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "ICICI Securities",
+    "start": 381644,
+    "end": 381660
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Precision Wires India Limited",
+    "start": 395624,
+    "end": 395653
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 401321,
+    "end": 401342
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 401373,
+    "end": 401392
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 401422,
+    "end": 401441
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 401472,
+    "end": 401490
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 401521,
+    "end": 401540
+  },
+  {
+    "type": "PERSON",
+    "text": "Maithili Rajesh Hegde",
+    "start": 401948,
+    "end": 401969
+  },
+  {
+    "type": "PERSON",
+    "text": "Katyayani Balasubramanian",
+    "start": 401994,
+    "end": 402019
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 403958,
+    "end": 403977
+  },
+  {
+    "type": "PERSON",
+    "text": "Katyayani Balasubramanian",
+    "start": 404476,
+    "end": 404501
+  },
+  {
+    "type": "ORGANIZATION",
+    "text": "Malabar India Fund Limited",
+    "start": 404789,
+    "end": 404815
+  },
+  {
+    "type": "PERSON",
+    "text": "Salil Ajay Bhargava",
+    "start": 404894,
+    "end": 404913
+  },
+  {
+    "type": "PERSON",
+    "text": "Jabeen Ajay Menon",
+    "start": 404943,
+    "end": 404960
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 414312,
+    "end": 414333
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 414493,
+    "end": 414512
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 414529,
+    "end": 414548
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 414566,
+    "end": 414584
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 414602,
+    "end": 414621
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 415439,
+    "end": 415460
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 415478,
+    "end": 415497
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 415514,
+    "end": 415533
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 415551,
+    "end": 415569
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 415587,
+    "end": 415606
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 415980,
+    "end": 416001
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 416041,
+    "end": 416060
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 416099,
+    "end": 416118
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 416157,
+    "end": 416175
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 416214,
+    "end": 416233
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 416269,
+    "end": 416288
+  },
+  {
+    "type": "PERSON",
+    "text": "Maithili Rajesh Hegde",
+    "start": 416666,
+    "end": 416687
+  },
+  {
+    "type": "PERSON",
+    "text": "Maithili Rajesh Hegde",
+    "start": 416723,
+    "end": 416744
+  },
+  {
+    "type": "PERSON",
+    "text": "Katyayani Balasubramanian",
+    "start": 416775,
+    "end": 416800
+  },
+  {
+    "type": "PERSON",
+    "text": "Katyayani Balasubramanian",
+    "start": 416836,
+    "end": 416861
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 416983,
+    "end": 417004
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 417040,
+    "end": 417061
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 417098,
+    "end": 417119
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 417161,
+    "end": 417180
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 417219,
+    "end": 417238
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 417273,
+    "end": 417292
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Bhandary",
+    "start": 425473,
+    "end": 425491
+  },
+  {
+    "type": "PERSON",
+    "text": "Jayaram Shetty",
+    "start": 425615,
+    "end": 425629
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 425735,
+    "end": 425750
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 425952,
+    "end": 425967
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 425977,
+    "end": 425992
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 426085,
+    "end": 426104
+  },
+  {
+    "type": "PERSON",
+    "text": "Karunakar Hegde",
+    "start": 426397,
+    "end": 426412
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 426510,
+    "end": 426529
+  },
+  {
+    "type": "PERSON",
+    "text": "Vijay Hegde",
+    "start": 426693,
+    "end": 426704
+  },
+  {
+    "type": "PERSON",
+    "text": "Vijay Hegde",
+    "start": 426813,
+    "end": 426824
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 438763,
+    "end": 438784
+  },
+  {
+    "type": "PERSON",
+    "text": "Pushpa Kushal Hegde",
+    "start": 438833,
+    "end": 438852
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 438899,
+    "end": 438918
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 438965,
+    "end": 438983
+  },
+  {
+    "type": "PERSON",
+    "text": "Kushal Subbayya Hegde",
+    "start": 439056,
+    "end": 439077
+  },
+  {
+    "type": "PERSON",
+    "text": "Rajesh Kushal Hegde",
+    "start": 439281,
+    "end": 439300
+  },
+  {
+    "type": "PERSON",
+    "text": "Rohit Kushal Hegde",
+    "start": 439432,
+    "end": 439450
+  },
+  {
+    "type": "PERSON",
+    "text": "Rakhi Girija Shetty",
+    "start": 439626,
+    "end": 439645
+  },
+  {
+    "type": "PERSON",
+    "text": "Dinesh Hirachand Munot",
+    "start": 439849,
+    "end": 439871
+  },
+  {
+    "type": "PERSON",
+    "text": "Ram Kumar Tiwari",
+    "start": 440175,
+    "end": 440191
+  },
+  {
+    "type": "PERSON",
+    "text": "Indu Jacob",
+    "start": 440314,
+    "end": 440324
+  },
+  {
+    "type": "EMAIL",
+    "text": "parag.pansare@kirtanepandit.com",
+    "start": 444303,
+    "end": 444334
+  },
+  {
+    "type": "PERSON",
+    "text": "Hingne Tare",
+    "start": 444506,
+    "end": 444517
+  },
+  {
+    "type": "EMAIL",
+    "text": "hingnetare@gmail.com",
+    "start": 444614,
+    "end": 444634
+  }
+]
