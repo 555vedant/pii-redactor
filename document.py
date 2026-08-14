@@ -47,20 +47,27 @@ def _apply_replacements_to_para(para, replacements: List[Tuple[str, str]]):
     if not replacements:
         return
 
+    runs = para.runs
+    if not runs:
+        return
+        
     # build full paragraph text with run boundaries
-    full_text = "".join(run.text for run in para.runs)
-    if not any(orig in full_text for orig, _ in replacements):
+    full_text = "".join(run.text for run in runs)
+    
+    # Pre-filter replacements that actually exist in this paragraph (MASSIVE speedup)
+    valid_replacements = [(orig, repl) for orig, repl in replacements if orig in full_text]
+    if not valid_replacements:
         return
 
     # First try replacing within individual runs (preserves all formatting)
-    for orig, repl in sorted(replacements, key=lambda x: -len(x[0])):
-        for run in para.runs:
+    for orig, repl in sorted(valid_replacements, key=lambda x: -len(x[0])):
+        for run in runs:
             if orig in run.text:
                 run.text = run.text.replace(orig, repl)
 
     # Check if any replacements are still needed (meaning they spanned across runs)
-    new_full_text = "".join(run.text for run in para.runs)
-    spanned_replacements = [(orig, repl) for orig, repl in replacements if orig in new_full_text]
+    new_full_text = "".join(run.text for run in runs)
+    spanned_replacements = [(orig, repl) for orig, repl in valid_replacements if orig in new_full_text]
     
     if spanned_replacements:
         # Fallback for cross-run spans: collapse to first run
@@ -68,9 +75,9 @@ def _apply_replacements_to_para(para, replacements: List[Tuple[str, str]]):
         for orig, repl in sorted(spanned_replacements, key=lambda x: -len(x[0])):
             modified = modified.replace(orig, repl)
         
-        if modified != new_full_text and para.runs:
-            para.runs[0].text = modified
-            for run in para.runs[1:]:
+        if modified != new_full_text:
+            runs[0].text = modified
+            for run in runs[1:]:
                 run.text = ""
 
 
